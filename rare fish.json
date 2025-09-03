@@ -1,0 +1,22 @@
+{
+  "Screet": {
+    "color": 65280,
+    "image": "https://i.imgur.com/YourScreetImage.png"
+  },
+  "Megalodon": {
+    "color": 16711680,
+    "image": "https://i.imgur.com/YourMegalodon.png"
+  },
+  "Kraken": {
+    "color": 255,
+    "image": "https://i.imgur.com/YourKraken.png"
+  },
+  "Golden Carp": {
+    "color": 16766720,
+    "image": "https://i.imgur.com/YourGoldenCarp.png"
+  },
+  "Leviathan": {
+    "color": 10494192,
+    "image": "https://i.imgur.com/YourLeviathan.png"
+  }
+}
